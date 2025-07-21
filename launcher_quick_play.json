@@ -1,0 +1,16 @@
+{
+  "quickPlayData" : {
+    "2535420331282131" : 
+    [
+      {
+        "epochLastPlayedTimeMs" : 1753072312978,
+        "id" : "fabric-loader-1.21.7",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.21.7"
+        },
+        "source" : "Java"
+      }
+    ]
+  },
+  "version" : 2
+}

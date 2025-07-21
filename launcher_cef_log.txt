@@ -1,0 +1,11 @@
+[5740:6080:0720/232850.674:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 127.0.6533.120 (not a warning)
+[5740:6760:0720/232856.291:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5740:6080:0720/232859.527:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5740:6080:0720/232901.539:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[5740:6080:0720/232903.416:INFO:main_context.cpp(131)] CEF initialized successfully.
+[5740:6080:0720/232903.417:INFO:main_context.cpp(133)] CEF version: 127.3.5+g114ea2a+chromium-127.0.6533.120
+[5740:6080:0720/232904.233:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[5740:17856:0720/232912.277:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5740:17856:0720/232912.305:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2852:10312:0720/232917.502:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[5740:6080:0720/233305.765:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,13 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 2880353455484198451,
+  "formatVersion" : 0,
+  "locale" : "es-MX",
+  "productLibraryDir" : "C:\\Users\\Mva-Pc\\AppData\\Local\\Mojang\\products",
+  "quickPlayEnabled" : true,
+  "shutDownTimestampGamecore" : 1753072384562,
+  "useArm64JreIfSupported" : false,
+  "useMagnifiedMode" : false,
+  "version" : 15
+}
